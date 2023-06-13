@@ -18,7 +18,7 @@
   },
   "scripts": {
     "start": "concurrently \"npm run server\" \"npm run client\"",
-    "client": "react-scripts start",
+    "client": "react-scripts --openssl-legacy-provider start",
     "server": "nodemon ./server/server.js",
     "seed": "node ./scripts/seedDb.js",
     "bundle": "node ./scripts/bundle.js",
