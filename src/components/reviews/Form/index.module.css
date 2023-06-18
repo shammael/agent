@@ -1,0 +1,17 @@
+.form {
+  display: flex;
+  gap: 4px;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+.text_area {
+  border: 1px solid rgba(128, 128, 128, 0.288);
+  border-radius: 5px;
+  outline: none;
+  padding: 5px 10px;
+  width: 100%;
+}

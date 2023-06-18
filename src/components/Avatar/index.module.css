@@ -1,0 +1,25 @@
+.image {
+  background-size: cover;
+  border-radius: 100%;
+  border-width: 4px;
+  border-style: solid;
+  border-color: #38bdf8;
+  object-fit: cover;
+  background-position: center;
+
+}
+
+.image_size_small {
+  height: 50px;
+  width: 50px;
+}
+
+.image_size_normal {
+  height: 100px;
+  width: 100px;
+}
+
+.avatar {
+  display: flex;
+  justify-content: center;
+}

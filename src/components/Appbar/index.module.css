@@ -1,0 +1,9 @@
+.container {
+  padding: 20px 10px;
+}
+
+.appbar {
+  display: flex;
+  justify-content: space-between;
+  height: 40px;
+}

@@ -1,0 +1,36 @@
+.form {
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  min-width: 250px;
+}
+
+.button {
+  padding: 10px;
+  border-radius: 5px;
+  border: none;
+  background-color: #0e7490;
+  color: white;
+}
+
+.label {
+  color: #64748b;
+  font-weight: 500;
+}
+
+.text_area {
+  border: 1px solid rgba(128, 128, 128, 0.288);
+  border-radius: 5px;
+  outline: none;
+}
+
+.addPracticeButton {
+  padding: 5px;
+  background-color: #2563eb;
+  border: none;
+  color: #fff;
+  border-radius: 5px;
+}
